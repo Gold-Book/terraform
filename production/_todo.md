@@ -8,7 +8,7 @@
   - default_root_objectの設定
 
 - admin
-  - 店舗のip addressをsecurity groupに追加
+  - ip addressをsecurity groupに追加
   - iam roleの整理
   - dswのIPをadminに追加する？
 
